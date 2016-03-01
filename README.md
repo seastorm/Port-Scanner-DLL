@@ -1,5 +1,6 @@
 # Port-Scanner-DLL
 A simple port scanner for Windows implemented as DLL.
+Scans an IP range for a single port on a run.
 
 # How to run
 The port scanner starts when the DLL is loaded into the address space of another process.
