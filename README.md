@@ -16,7 +16,7 @@ This port scanner tries to read the file "scan_input.txt" in order to read the s
 The format of this file must be (line by line):
 - First three bytes of the IP address range, ended by a dot.
 - Last byte of the start IP address
-- End byte of the start IP address
+- Last byte of the end IP address
 - Port number
 
 For instance, the following input file:
